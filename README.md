@@ -4,23 +4,37 @@ This is my third smester Project of COAL(Computer Organizaion and Assembly Langu
 ##COAL Final Project – Fall 2019 T-eax Game
 
 You have to build a Game similar to the one that you play on Google chrome when Internet is not available
-This project is divided into two phases. (Total Marks: 200)
+
+This project is divided into two phases. 
+
 In this project, you have to add some additional functionalities in T-rex game.
+
  While designing the Interface be as creative as you can.
- Game should be menu based.
- There should be in total five chances to play the same game, if the bot/dino loses the game.
- Last 3 Highest scores and remaining Life count should be displayed at the top of game screen.
- Keep log of highest scores in a text file along with data and time.
- Instructions of game should be displayed from a text file
- Hurdles should appear randomly.
- Name of player should be displayed on the screen.
- Extra lives in the shape of hearts should also appear along with hurdles but with relatively less probability
- Dino should be able to move both forward and backward (use right and left arrow key). Also it can jump and bend to avoid hurdles (use up and down arrow key).
- After some particular addition in score (e.g. 50 points), level of game should upgrade i.e. speed of hurdles should increase.
+1 Game should be menu based.
+
+2 There should be in total five chances to play the same game, if the bot/dino loses the game.
+
+3 Last 3 Highest scores and remaining Life count should be displayed at the top of game screen.
+
+4 Keep log of highest scores in a text file along with data and time.
+
+5 Instructions of game should be displayed from a text file
+
+6 Hurdles should appear randomly.
+
+7 Name of player should be displayed on the screen.
+
+8 Extra lives in the shape of hearts should also appear along with hurdles but with relatively less probability
+
+9 Dino should be able to move both forward and backward (use right and left arrow key). Also it can jump and bend to avoid hurdles (use up and down arrow key).
+
+10 After some particular addition in score (e.g. 50 points), level of game should upgrade i.e. speed of hurdles should increase.
 
 Phase 1 
-You are to design the layout of screens in 1st phase of project. (50 Marks)
-You have to design 3 Screens and redirection to these screens should be using Mouse Interrupt.
+
+->You are to design the layout of screens in 1st phase of project. (50 Marks)
+
+->You have to design 3 Screens and redirection to these screens should be using Mouse Interrupt.
 
 Screen 1: (Game Menu)
 → Play
